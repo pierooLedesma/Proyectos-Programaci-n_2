@@ -1,0 +1,9 @@
+36699613    Mejia De La Haza Francisco Edgar
+Libros entregados:
+       Pedido No.    Codigo     Precio
+         00023       NEO9165     20.00
+         00002       WPU8819     10.54
+Total a pagar: 30.54
+Libros no entregados por falta de stock:
+       Pedido No.    Codigo
+         00048       ZJM1292
