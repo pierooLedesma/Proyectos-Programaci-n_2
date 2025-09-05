@@ -1,3 +1,0 @@
-C:/Programacion2/Resoluciones/2024-1/Parte1_CrearBiblioteca/Fuentes_Biblioteca_2024_1/cmake-build-debug/CMakeFiles/Fuentes_Biblioteca_2024_1.dir
-C:/Programacion2/Resoluciones/2024-1/Parte1_CrearBiblioteca/Fuentes_Biblioteca_2024_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programacion2/Resoluciones/2024-1/Parte1_CrearBiblioteca/Fuentes_Biblioteca_2024_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
