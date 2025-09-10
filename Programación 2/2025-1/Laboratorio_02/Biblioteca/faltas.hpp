@@ -12,8 +12,9 @@ struct Faltas {
     Conductores conductores;
     Infracciones infracciones;
 
-    char **placas;
+    char ***placas;
     int *capacidades;
 };
+
 
 #endif //LABORATORIO_02_FALTAS_HPP
