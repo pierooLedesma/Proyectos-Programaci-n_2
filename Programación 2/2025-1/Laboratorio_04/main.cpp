@@ -1,6 +1,6 @@
 
 //
-// Archivo: main.hpp
+// Archivo: main.cpp
 // Autor: Alessandro Piero Ledesma Guerra - 20217340
 // Fecha: Lunes 29 de septiembre del 2025
 //
