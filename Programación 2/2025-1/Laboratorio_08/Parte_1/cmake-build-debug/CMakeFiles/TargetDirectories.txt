@@ -1,0 +1,3 @@
+C:/Programacion2/Resoluciones/2025-1/Laboratorio_08/Parte_1/cmake-build-debug/CMakeFiles/Parte_1.dir
+C:/Programacion2/Resoluciones/2025-1/Laboratorio_08/Parte_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programacion2/Resoluciones/2025-1/Laboratorio_08/Parte_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

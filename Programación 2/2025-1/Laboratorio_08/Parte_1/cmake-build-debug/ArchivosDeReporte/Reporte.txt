@@ -1,0 +1,46 @@
+                        REPORTE DE DRONES
+====================================================================
+    Codigo      Ubicacion      Capacidad      Velocidad/Zona/Luz
+====================================================================
+     E033       Avenida F         15                    0
+     E172       Avenida F         15                    0
+     E190       Avenida C         15                    0
+     E243       Avenida I         15                    0
+     E467       Avenida C         15                    0
+     E526       Avenida I         15                    0
+     E618       Avenida F         15                    0
+     E679       Avenida C         15                    0
+     E686       Avenida F         15                    0
+     E746       Avenida C         15                    0
+     E830       Avenida C         15                    0
+     E885       Avenida I         15                    0
+     E960       Avenida F         15                    0
+     E999       Avenida I         15                    0
+     S071       Avenida B         10                    1
+     S203       Avenida H         10                    1
+     S253       Avenida B         10                    1
+     S318       Avenida H         10                    1
+     S461       Avenida E         10                    1
+     S473       Avenida B         10                    1
+     S609       Avenida E         10                    1
+     S714       Avenida B         10                    1
+     S799       Avenida E         10                    1
+     S834       Avenida H         10                    1
+     S849       Avenida E         10                    1
+     S863       Avenida H         10                    1
+     V001       Avenida A          5                   60
+     V044       Avenida J          5                   60
+     V050       Avenida A          5                   60
+     V081       Avenida J          5                   60
+     V252       Avenida G          5                   60
+     V253       Avenida A          5                   60
+     V306       Avenida J          5                   60
+     V326       Avenida A          5                   60
+     V419       Avenida D          5                   60
+     V481       Avenida D          5                   60
+     V572       Avenida D          5                   60
+     V573       Avenida G          5                   60
+     V588       Avenida G          5                   60
+     V618       Avenida G          5                   60
+     V621       Avenida D          5                   60
+     V974       Avenida J          5                   60
