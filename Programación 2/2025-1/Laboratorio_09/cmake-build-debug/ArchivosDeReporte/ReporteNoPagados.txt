@@ -1,0 +1,298 @@
+====================================================================================================
+                        RELACION DE EMPRESAS CON INFRACCIONES DE TRANSITO
+----------------------------------------------------------------------------------------------------
+DNI: 12270502       NOMBRE: CUEVA FUENTES CINTHIA DELIA             DISTRITO: EL AGUSTINO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G250-663       BMW                 X5
+G266-362       BMW                 Z4
+G855-340       FORD                MUSTANG
+G991-678       MAZDA               MX-5 MIATA
+P246-429       HYUNDAI             ELANTRA
+====================================================================================================
+DNI: 12443643       NOMBRE: LEE SERRANO ROSARIO                     DISTRITO: SANTA MARIA DEL MAR
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G926-575       HONDA               ACCORD
+M421-807       HONDA               FIT
+M483-214       FORD                EXPLORER
+P235-315       SUZUKI              SWIFT
+====================================================================================================
+DNI: 12858682       NOMBRE: ZARATE PEREZ ALEXANDER                  DISTRITO: BARRANCO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G520-337       KIA                 RIO
+M137-958       BMW                 SERIE 5
+M207-572       FORD                F-150
+====================================================================================================
+DNI: 13219606       NOMBRE: RODRIGUEZ MORENO BLANCA OFELIA          DISTRITO: PUEBLO LIBRE
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M312-270       TOYOTA              RAV4
+P201-291       BMW                 X3
+====================================================================================================
+DNI: 13628871       NOMBRE: QUIROGA HERNANDEZ SILVANA ZKENIA MARIA  DISTRITO: INDEPENDENCIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+P203-441       BMW                 SERIE 3
+====================================================================================================
+DNI: 19568447       NOMBRE: VEGA SORIA HENRRY                       DISTRITO: SAN JUAN DE LURIGANCHO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M907-605       HYUNDAI             VELOSTER
+====================================================================================================
+DNI: 47528229       NOMBRE: SAAVEDRA GONZALES WILMER                DISTRITO: CHORRILLOS
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M466-711       NISSAN              NAVARA
+P325-365       SUBARU              FORESTER
+====================================================================================================
+DNI: 47844324       NOMBRE: VILCA LEE NESTOR HUGO                   DISTRITO: COMAS
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+P618-120       SUZUKI              JIMNY
+====================================================================================================
+DNI: 48450395       NOMBRE: RAMIREZ ASTETE KARINA ESTEFANIA         DISTRITO: MAGDALENA DEL MAR
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G328-654       MERCEDES-BENZ       CLASE E
+M317-350       HONDA               ACCORD
+P559-672       KIA                 SORENTO
+P692-666       TOYOTA              HILUX
+====================================================================================================
+DNI: 48528209       NOMBRE: ZAVALETA CORONADO FELICITA ELOISA       DISTRITO: VILLA MARIA DEL TRIUNFO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G262-654       HYUNDAI             ELANTRA
+G400-314       HYUNDAI             VELOSTER
+G402-859       TOYOTA              CAMRY
+G958-240       TOYOTA              COROLLA
+P156-716       NISSAN              ROGUE
+====================================================================================================
+DNI: 73567806       NOMBRE: ARCA SANCHEZ MAGALI BEATRIZ IRIS        DISTRITO: SANTA ANITA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G458-550       BMW                 SERIE 3
+M666-407       SUZUKI              SWIFT
+M993-637       SUZUKI              ALTO
+P426-388       TOYOTA              LAND CRUISER
+====================================================================================================
+DNI: 73818744       NOMBRE: FUENTES GAMARRA HUGO                    DISTRITO: PUEBLO LIBRE
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G393-114       MERCEDES-BENZ       GLE
+G662-512       MAZDA               CX-5
+G938-342       NISSAN              X-TRAIL
+P251-666       NISSAN              NAVARA
+====================================================================================================
+DNI: 73972114       NOMBRE: AVILA MARTEL JAIME MANUEL               DISTRITO: SAN JUAN DE LURIGANCHO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G657-925       MAZDA               CX-5
+M646-319       VOLKSWAGEN          PASSAT
+M655-864       NISSAN              SENTRA
+M862-577       TOYOTA              LAND CRUISER
+P255-643       HYUNDAI             ACCENT
+====================================================================================================
+DNI: 74325123       NOMBRE: TANG MOSCOSO JOHANA                     DISTRITO: LA MOLINA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G214-608       HYUNDAI             TUCSON
+G968-856       TOYOTA              COROLLA
+M348-264       HONDA               FIT
+P770-513       MERCEDES-BENZ       GLC
+P905-539       NISSAN              NAVARA
+====================================================================================================
+DNI: 75348522       NOMBRE: LOZADA FORZANI DELIA                    DISTRITO: INDEPENDENCIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G113-951       MAZDA               CX-9
+G744-786       TOYOTA              LAND CRUISER
+G841-644       TOYOTA              PRIUS
+G938-356       TOYOTA              CAMRY
+P310-575       FORD                MUSTANG
+====================================================================================================
+DNI: 75945248       NOMBRE: MEJIA RODRIGUEZ INES VALENTINA          DISTRITO: PUNTA HERMOSA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G450-448       BMW                 Z4
+G721-932       TOYOTA              HILUX
+P939-759       SSANGYONG           KORANDO
+====================================================================================================
+DNI: 77367073       NOMBRE: JAUREGUI DEL CASTILLO VICTOR RICARDO    DISTRITO: SAN JUAN DE MIRAFLORES
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G542-724       SUBARU              FORESTER
+G974-598       HONDA               ACCORD
+M655-400       KIA                 RIO
+====================================================================================================
+DNI: 77763722       NOMBRE: FARFAN SALAZAR MARGOT                   DISTRITO: LA MOLINA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M277-299       TOYOTA              RAV4
+P163-421       VOLKSWAGEN          POLO
+P482-255       NISSAN              SENTRA
+====================================================================================================
+DNI: 79641328       NOMBRE: TOKESHI GUEVARA JAIME                   DISTRITO: CIENEGUILLA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G437-799       VOLKSWAGEN          JETTA
+G734-120       KIA                 FORTE
+M512-863       HONDA               FIT
+====================================================================================================
+DNI: 79672079       NOMBRE: CONTRERAS CHANG JOHANA CINTHIA          DISTRITO: CHORRILLOS
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M852-620       BMW                 SERIE 3
+P282-128       MERCEDES-BENZ       CLASE C
+P599-629       HONDA               PILOT
+====================================================================================================
+DNI: 79766395       NOMBRE: FUENTES ESCALANTE PATRICIA ELIZABETH    DISTRITO: SANTA ANITA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G485-562       NISSAN              NAVARA
+G763-950       NISSAN              ALTIMA
+P195-859       MERCEDES-BENZ       GLC
+====================================================================================================
+DNI: 80310768       NOMBRE: MINAYA BERROCAL HELI                    DISTRITO: CARABAYLLO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G752-478       HONDA               CIVIC
+G893-799       MAZDA               MAZDA6
+M267-848       VOLKSWAGEN          JETTA
+M477-146       MAZDA               MAZDA3
+M982-853       HONDA               CIVIC
+====================================================================================================
+DNI: 80457845       NOMBRE: NORABUENA MOYA HECTOR                   DISTRITO: JESUS MARIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G410-582       MITSUBISHI          LANCER
+G616-581       VOLKSWAGEN          TIGUAN
+G874-915       SUBARU              FORESTER
+M912-415       NISSAN              NAVARA
+P670-603       SUBARU              XV
+====================================================================================================
+DNI: 81485316       NOMBRE: JUSTINO MARTINEZ ENRIQUE                DISTRITO: SANTA MARIA DEL MAR
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G156-830       HYUNDAI             ACCENT
+G710-594       HYUNDAI             SANTA FE
+M500-707       KIA                 SPORTAGE
+M774-204       NISSAN              SENTRA
+P486-917       SSANGYONG           TIVOLI
+====================================================================================================
+DNI: 81528434       NOMBRE: EPIQUEN AVILA ENRIQUE                   DISTRITO: JESUS MARIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G377-489       HYUNDAI             SONATA
+G650-450       SSANGYONG           MUSSO
+M832-314       MITSUBISHI          ECLIPSE CROSS
+M837-854       FORD                FOCUS
+P325-587       SSANGYONG           MUSSO
+====================================================================================================
+DNI: 81799482       NOMBRE: CERNA CERNA CINTHIA                     DISTRITO: PUCUSANA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G592-689       KIA                 CARNIVAL
+G605-765       NISSAN              ALTIMA
+G635-752       KIA                 SORENTO
+M359-944       MERCEDES-BENZ       CLASE C
+M561-874       KIA                 SPORTAGE
+====================================================================================================
+DNI: 82031355       NOMBRE: EGUSQUIZA BERROCAL DORIS NANCY          DISTRITO: PUCUSANA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M599-949       TOYOTA              HILUX
+P386-900       BMW                 SERIE 5
+====================================================================================================
+DNI: 82870470       NOMBRE: SEDANO RETAMOSO ELIA YOLANDA            DISTRITO: RIMAC
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+P478-603       HYUNDAI             VELOSTER
+P516-487       MITSUBISHI          ECLIPSE CROSS
+====================================================================================================
+DNI: 84186239       NOMBRE: RIVERO CORONADO HECTOR ALONSO JOSE      DISTRITO: LINCE
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G872-544       FORD                EXPLORER
+P582-282       FORD                FIESTA
+====================================================================================================
+DNI: 85501710       NOMBRE: VIZCARDO SINCHE MARIBEL                 DISTRITO: SAN BORJA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M651-665       HONDA               CIVIC
+P532-434       HYUNDAI             ACCENT
+====================================================================================================
+DNI: 86429854       NOMBRE: MOSCOSO LAURA JANET VALENTINA           DISTRITO: PUNTA HERMOSA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G374-384       VOLKSWAGEN          JETTA
+M360-947       SSANGYONG           KORANDO
+M510-956       TOYOTA              COROLLA
+M580-968       HYUNDAI             TUCSON
+P364-899       VOLKSWAGEN          TIGUAN
+====================================================================================================
+DNI: 86718074       NOMBRE: ESCALANTE ROJAS INES ADRIA              DISTRITO: JESUS MARIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G368-136       MAZDA               CX-5
+====================================================================================================
+DNI: 87282766       NOMBRE: SUAREZ CHANG GLORIA                     DISTRITO: SAN BARTOLO
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+M440-802       BMW                 Z4
+====================================================================================================
+DNI: 87495937       NOMBRE: MORALES PASQUEL KARIN MARIBEL           DISTRITO: INDEPENDENCIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G329-867       MITSUBISHI          PAJERO
+====================================================================================================
+DNI: 88167677       NOMBRE: PRADO VERA JUAN                         DISTRITO: SAN MIGUEL
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G264-957       TOYOTA              COROLLA
+G325-333       HYUNDAI             ELANTRA
+M366-914       MERCEDES-BENZ       CLASE C
+M435-175       FORD                MUSTANG
+P665-969       HYUNDAI             SONATA
+====================================================================================================
+DNI: 88854166       NOMBRE: PINTO ROJAS JUVENAL FRANCISCO           DISTRITO: JESUS MARIA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G411-657       KIA                 SORENTO
+G568-563       HYUNDAI             SANTA FE
+M257-722       HONDA               HR-V
+P131-555       NISSAN              MAXIMA
+P324-421       VOLKSWAGEN          POLO
+====================================================================================================
+DNI: 89314225       NOMBRE: RIOS DURAND CARLOS EDILBERTO            DISTRITO: CERCADO DE LIMA
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G256-432       MERCEDES-BENZ       S-CLASS
+G760-721       HYUNDAI             ACCENT
+M288-737       SUBARU              WRX
+P152-838       MERCEDES-BENZ       S-CLASS
+P355-270       TOYOTA              HILUX
+----------------------------------------------------------------------------------------------------
+MULTAS IMPUESTAS
+PLACA      FECHA DE INFRACCION       CODIGO DE INFRACCION      MULTA     PAGADA       FECHA DE PAGO
+G760-721       01/12/2020                  G2022               356.97      NO           --/--/----
+====================================================================================================
+DNI: 89941095       NOMBRE: ARCA LARRIEGA LUCERO YLIANA             DISTRITO: COMAS
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G138-788       FORD                F-150
+G226-459       NISSAN              LEAF
+M708-335       KIA                 RIO
+P474-593       NISSAN              X-TRAIL
+P860-616       TOYOTA              CAMRY
+====================================================================================================
+DNI: 90467829       NOMBRE: IPARRAGUIRRE PEREZ NICOLAS              DISTRITO: MIRAFLORES
+VEHICULOS DE LA EMPRESA:
+PLACA          MARCA               MODELO
+G189-507       NISSAN              NAVARA
+G600-343       HONDA               FIT
+M844-240       KIA                 FORTE
+P863-768       TOYOTA              PRIUS
+P985-495       HONDA               HR-V
+====================================================================================================
